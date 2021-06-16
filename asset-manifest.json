@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/pixel-perfect/static/css/main.0c3f04f6.chunk.css",
+    "main.js": "/pixel-perfect/static/js/main.f6ef998c.chunk.js",
+    "main.js.map": "/pixel-perfect/static/js/main.f6ef998c.chunk.js.map",
+    "runtime-main.js": "/pixel-perfect/static/js/runtime-main.4de51883.js",
+    "runtime-main.js.map": "/pixel-perfect/static/js/runtime-main.4de51883.js.map",
+    "static/js/2.66ee62fa.chunk.js": "/pixel-perfect/static/js/2.66ee62fa.chunk.js",
+    "static/js/2.66ee62fa.chunk.js.map": "/pixel-perfect/static/js/2.66ee62fa.chunk.js.map",
+    "static/js/3.4ab87bcf.chunk.js": "/pixel-perfect/static/js/3.4ab87bcf.chunk.js",
+    "static/js/3.4ab87bcf.chunk.js.map": "/pixel-perfect/static/js/3.4ab87bcf.chunk.js.map",
+    "index.html": "/pixel-perfect/index.html",
+    "static/css/main.0c3f04f6.chunk.css.map": "/pixel-perfect/static/css/main.0c3f04f6.chunk.css.map",
+    "static/js/2.66ee62fa.chunk.js.LICENSE.txt": "/pixel-perfect/static/js/2.66ee62fa.chunk.js.LICENSE.txt",
+    "static/media/avatar-aiysha.e119a0c1.jpg": "/pixel-perfect/static/media/avatar-aiysha.e119a0c1.jpg",
+    "static/media/avatar-arthur.098c2e26.jpg": "/pixel-perfect/static/media/avatar-arthur.098c2e26.jpg",
+    "static/media/avatar-kady.78fc482c.jpg": "/pixel-perfect/static/media/avatar-kady.78fc482c.jpg",
+    "static/media/icon-chart.8de3d4d2.svg": "/pixel-perfect/static/media/icon-chart.8de3d4d2.svg",
+    "static/media/icon-quotes.c5173921.svg": "/pixel-perfect/static/media/icon-quotes.c5173921.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4de51883.js",
+    "static/js/2.66ee62fa.chunk.js",
+    "static/css/main.0c3f04f6.chunk.css",
+    "static/js/main.f6ef998c.chunk.js"
+  ]
+}
