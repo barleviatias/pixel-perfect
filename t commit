@@ -1,0 +1,11 @@
+[33mcommit 4bfbc61e032a9bb68409f3ee96f4d654a8f44cb9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: barleviatias <barlevi.atias@gmail.com>
+Date:   Wed Jun 16 13:14:58 2021 +0300
+
+     first commit
+
+[33mcommit 43dd3d843b0fa3fae3b4b6c81d159298f2368acd[m
+Author: barleviatias <barlevi.atias@gmail.com>
+Date:   Wed Jun 16 09:25:23 2021 +0300
+
+    Initialize project using Create React App
